@@ -75,15 +75,5 @@ document.querySelector("#app").innerHTML = `
     ${createCard("02/12","sexta",createGame('ghana', '12:00', 'uruguay'))}
     ${createCard("02/12","sexta",createGame('serbia', '16:00', 'switzerland'))}
     ${createCard("02/12","sexta",createGame('cameroon', '16:00', 'brazil'))}
-
-
-
-
-
-
-
-
-
-
     </main>
 `
