@@ -93,6 +93,7 @@ header{
     flex-direction: column;
     gap: 24px;
     width: 270px;
+    color: white;
 }
 
 .card ul li{
